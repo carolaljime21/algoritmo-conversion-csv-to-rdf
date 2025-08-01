@@ -1,1 +1,0 @@
-# algoritmo-conversion-csv-to-rdf
