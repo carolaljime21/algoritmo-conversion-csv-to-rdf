@@ -1,0 +1,7 @@
+# Ignorar dependencias y builds de Node.js / Next.js
+node_modules/
+.next/
+dist/
+.env
+.DS_Store
+*.log
